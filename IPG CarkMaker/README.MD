@@ -107,4 +107,4 @@ Limitations
 
 ***
 
-![](https://github.com/BMEAutomatedDrive/ZalaZONE-test-track-simulation-models/tree/master/IPG%20CarkMaker/Pictures/IPG_oval.JPG)
+![](https://raw.githubusercontent.com/BMEAutomatedDrive/ZalaZONE-test-track-simulation-models/master/IPG%20CarkMaker/Pictures/IPG_oval.JPG?token=ANMC4MPQ3YJPZCSEPQ5LBZ26EB4B2)
