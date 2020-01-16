@@ -20,4 +20,4 @@ The creation of the .fbx file has been supported through laser scanning made by 
 
 ***
 
-![](https://github.com/BMEAutomatedDrive/ZalaZONE-test-track-models/edit/master/Unity3D/Pictures/ScreenShot02.png)
+![](https://raw.githubusercontent.com/BMEAutomatedDrive/ZalaZONE-test-track-simulation-models/master/Unity3D/Pictures/ScreenShot02.png?token=ANMC4ML72DPQCLVXF7TLKIS6EB4QK)
