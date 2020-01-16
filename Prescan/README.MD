@@ -34,7 +34,7 @@ Features
 - Made of 4 lanes (same direction).
 
 Limitations
-- Bank angle is limited (max. 20°)
+- Bank angle is limited (max. 20Â°)
 
 ### 2. Dynamic Platform
 
@@ -123,4 +123,4 @@ Limitations
 
 ***
 
-![](https://github.com/BMEAutomatedDrive/ZalaZONE-test-track-models/edit/master/Prescan/Pictures/Prescan_SC_01.jpg)
+![](https://raw.githubusercontent.com/BMEAutomatedDrive/ZalaZONE-test-track-simulation-models/master/Prescan/Pictures/Prescan_SC_01.jpg?token=ANMC4MM3HVF6PFUME22FKIS6EB4LQ)
