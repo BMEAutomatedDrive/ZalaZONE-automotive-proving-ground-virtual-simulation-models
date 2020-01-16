@@ -1,0 +1,59 @@
+<!-- vehicle flow definition -->
+<routes>
+<!--   <vType id="car" accel="0.8" decel="4.5" sigma="0" length="5" minGap="2" maxSpeed="70"/>
+   
+   <route id="from0" edges="1i 2o"/>
+   <flow id="from0" type="car" route="from0" begin="1" end="502" vehsPerHour ="100" />
+   
+   <route id="from1" edges="1i 3o"/>
+   <flow id="from1" type="car" route="from1" begin="2" end="503" vehsPerHour ="100" />
+   -->
+
+     <vehicle id="0_EGO" depart="0.00" departLane="free" color="42,249,59">
+        <route edges="gneE29 -gneE28 gneE17 gneE38 gneE37 gneE29 -gneE28 -gneE16 -gneE15 -gneE14 -gneE33 -gneE31 gneE19 gneE24 gneE25 gneE15 gneE23 gneE34 gneE35 -gneE4 -gneE17 gneE28"/>
+    </vehicle>
+	
+	<vehicle id="carA" depart="0.00" length="4" width="1.8" accel="3.5" decel="5.2" departLane="free" color="255,100,0">
+        <route edges=" -gneE28 -gneE36 gneE35 -gneE4 -gneE17"/>
+    </vehicle>
+		<vehicle id="carB" depart="0.00" length="4" width="1.8" accel="3.5" decel="5.2" departLane="free" color="255,100,0">
+        <route edges=" -gneE28 -gneE36 gneE35 -gneE4 -gneE17"/>
+    </vehicle>
+		<vehicle id="carC" depart="0.00" length="4" width="1.8" accel="3.5" decel="5.2" departLane="free" color="255,100,0">
+        <route edges=" -gneE28 -gneE36 gneE35 -gneE4 -gneE17"/>
+    </vehicle>
+		<vehicle id="carD" depart="0.00" length="4" width="1.8" accel="3.5" decel="5.2" departLane="free" color="255,100,0">
+        <route edges=" -gneE28 -gneE36 gneE35 -gneE4 -gneE17"/>
+    </vehicle>
+		<vehicle id="carE" depart="0.00" length="4" width="1.8" accel="3.5" decel="5.2" departLane="free" color="255,100,0">
+        <route edges=" -gneE28 -gneE36 gneE35 -gneE4 -gneE17"/>
+    </vehicle>
+		<vehicle id="carF" depart="0.00" length="4" width="1.8" accel="3.5" decel="5.2" departLane="free" color="255,100,0">
+        <route edges=" -gneE28 -gneE36 gneE35 -gneE4 -gneE17"/>
+    </vehicle>
+	
+	<!--<vehicle id="carA" depart="0.00" departLane="free" color="58,128,242">
+        <route edges=" -310524169#2 -310524169#1 -310524169#0 24727038#0  24727038#1 -310524168#3 310524171 -310524169#2 -310524169#1 -310524169#0 24727038#0  24727038#1 -310524168#3 310524171 -310524169#2 -310524169#1 -310524169#0 24727038#0  24727038#1 -310524168#3 310524171 -310524169#2 -310524169#1 -310524169#0 24727038#0  24727038#1 -310524168#3 310524171 -310524169#2 -310524169#1 -310524169#0 24727038#0  24727038#1 -310524168#3 310524171" />
+    </vehicle>-->
+	
+	
+
+</routes>
+
+
+<!-- individual car definition -->
+<!--
+<routes>
+   <vType id="type1" accel="0.8" decel="4.5" sigma="0.5" length="20" maxSpeed="70"/>
+   <vType id="type2" accel="0.8" decel="4.5" sigma="0.5" length="5" maxSpeed="70"/>
+   <route id="route0" color="1,1,0" edges="1i 2o"/>
+   <route id="route1" color="1,1,0" edges="1i 3o"/>
+   <vehicle id="0" type="type1" route="route0" depart="0" color="1,0,0"/>
+   <vehicle id="1" type="type1" route="route0" depart="2" color="0,1,0"/>
+   <vehicle id="2" type="type2" route="route1" depart="4" color="1,0,0"/>
+   <vehicle id="3" type="type2" route="route1" depart="" color="0,1,0"/>
+</routes>
+-->
+
+
+
