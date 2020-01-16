@@ -12,3 +12,5 @@ Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE 
 The creation of the OpenDrive map file has been supported through laser scanning made by Baukoord-Europa Ltd. (baukoord.hu/en/).
 
 ***
+
+![](https://raw.githubusercontent.com/BMEAutomatedDrive/ZalaZONE-test-track-simulation-models/master/OpenDrive/Pictures/ZALAZONE02.png?token=ANMC4MKP7Q5OWRJVMRQ6AFS6EB4HA)
