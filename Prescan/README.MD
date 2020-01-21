@@ -2,13 +2,14 @@
 
 | Files  | Version  | Date |
 | :------------ |:---------------|:-----|
-| ZalaZONE_braking_platform_v01.pex     | 0.1 | 01.16.2020. |
-| ZalaZONE_dynamic_platform_v01.pex     | 0.1 | 01.16.2020. |
-| ZalaZONE_handling_course_v01.pex     | 0.1 | 01.16.2020. |
-| ZalaZONE_high-speed_oval_v01.pex     | 0.1 | 01.16.2020. |
-| ZalaZONE_rural_road_highway_motorway_v01.pex     | 0.1 | 01.16.2020. |
-| ZalaZONE_braking_platform_v01.pex     | 0.1 | 01.16.2020. |
-| ZalaZONE_smart_city_v01.pex     | 0.1 | 01.16.2020. |
+| ZalaZONE_braking_platform.pof     | 0.1 | 01.21.2020. |
+| ZalaZONE_dynamic_platform.pof     | 0.1 | 01.21.2020. |
+| ZalaZONE_handling_course.pof     | 0.1 | 01.21.2020. |
+| ZalaZONE_high-speed_oval.pof     | 0.1 | 01.21.2020. |
+| ZalaZONE_rural_road_highway_motorway.pof     | 0.1 | 01.21.2020. |
+| ZalaZONE_smart_city.pof     | 0.1 | 01.21.2020. |
+| ZalaZONE_smart_city.pof     | 0.1 | 01.21.2020. |
+| ZalaZONE_full.7z (split)     | 0.1 | 01.21.2020. |
 
 All of the modules based on the original plans and are created manually in Prescan's GUI. There are minor deviations from the constructed test track.
 
