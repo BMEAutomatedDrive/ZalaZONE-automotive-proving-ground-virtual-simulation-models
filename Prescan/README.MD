@@ -124,4 +124,4 @@ Limitations
 
 ***
 
-![](https://raw.githubusercontent.com/BMEAutomatedDrive/ZalaZONE-test-track-simulation-models/master/Prescan/Pictures/Prescan_SC_01.jpg?token=ANMC4MM3HVF6PFUME22FKIS6EB4LQ)
+![](https://github.com/BMEAutomatedDrive/ZalaZONE-automotive-proving-ground-virtual-simulation-models/blob/master/Prescan/Pictures/Prescan_SC_01.jpg)
