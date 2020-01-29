@@ -94,4 +94,7 @@ URL: https://ieeexplore.ieee.org/document/8519486
 Horváth MT, Lu Q, Tettamanti T, Török Á and Szalay Zs (2019), "Vehicle-In-The-Loop (VIL) and Scenario-In-The-Loop (SCIL) Automotive Simulation Concepts from the Perspectives of Traffic Simulation and Traffic Control", Transport and Telecommunication Journal. Vol. 2(20), pp. 153-161. 
 URL: https://content.sciendo.com/view/journals/ttj/20/2/article-p153.xml
 
+Németh H., Háry A., Szalay Z., Tihanyi V., Tóth B. (2019) Proving Ground Test Scenarios in Mixed Virtual and Real Environment for Highly Automated Driving. In: Proff H. (eds) Mobilität in Zeiten der Veränderung. Springer Gabler, Wiesbaden
+URL: https://link.springer.com/chapter/10.1007/978-3-658-26107-8_15
+
 ***
