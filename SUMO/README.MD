@@ -59,4 +59,4 @@ Limitations
 
 ***
 
-![](https://raw.githubusercontent.com/BMEAutomatedDrive/ZalaZONE-test-track-simulation-models/master/SUMO/Pictures/SmartCity.png?token=ANMC4ML4DPQEBURVNUBWOEK6EB4OA)
+![](https://github.com/BMEAutomatedDrive/ZalaZONE-automotive-proving-ground-virtual-simulation-models/blob/master/SUMO/Pictures/SmartCity.png)
