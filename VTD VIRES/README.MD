@@ -103,4 +103,4 @@ Limitations
 
 ***
 
-![](https://raw.githubusercontent.com/BMEAutomatedDrive/ZalaZONE-test-track-simulation-models/master/VTD%20VIRES/Pictures/ZALAZONE02.png?token=ANMC4MNMM2JVYNHQQQO5ODS6EB4SK)
+![](https://github.com/BMEAutomatedDrive/ZalaZONE-automotive-proving-ground-virtual-simulation-models/blob/master/VTD%20VIRES/Pictures/ZALAZONE02.png)
