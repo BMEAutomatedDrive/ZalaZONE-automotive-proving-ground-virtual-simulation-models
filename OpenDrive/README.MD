@@ -13,4 +13,4 @@ The creation of the OpenDrive map file has been supported through laser scanning
 
 ***
 
-![](https://raw.githubusercontent.com/BMEAutomatedDrive/ZalaZONE-test-track-simulation-models/master/OpenDrive/Pictures/ZALAZONE02.png?token=ANMC4MKP7Q5OWRJVMRQ6AFS6EB4HA)
+![](https://raw.githubusercontent.com/BMEAutomatedDrive/ZalaZONE-automotive-proving-ground-virtual-simulation-models/master/OpenDrive/Pictures/ZALAZONE02.png?token=ANMC4MKP7Q5OWRJVMRQ6AFS6EB4HA)
