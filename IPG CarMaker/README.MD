@@ -107,4 +107,4 @@ Limitations
 
 ***
 
-![](https://github.com/BMEAutomatedDrive/ZalaZONE-automotive-proving-ground-virtual-simulation-models/edit/master/IPG%20CarkMaker/Pictures/IPG_oval.JPG)
+![](https://github.com/BMEAutomatedDrive/ZalaZONE-automotive-proving-ground-virtual-simulation-models/edit/master/IPG%20CarMaker/Pictures/IPG_oval.JPG)
