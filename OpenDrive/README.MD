@@ -7,7 +7,9 @@
 | ZalaZONE_full.xodr     | 0.1 | 01.16.2020. |
 
 Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE test track in OpenDrive (.xodr) format. The full test track model was created manually in ROD (VIRES own road-network designer software) based on the original plans. There are minor deviations from the constructed test track.
+
 ZalaZONE Smart City Zone laser scanned map in OpenDrive (.xodr) format is limited: it only contains the already constructed part of the Smart City Zone (cca. 30%).
+
 ZalaZONE Smart City Zone map in OpenDrive (.xodr) format shows the whole Smart City Zone but created from the construction plan manually. It might be different from the real one and not so punctual as the laser scanned version.
 
 ### Acknowledgements
