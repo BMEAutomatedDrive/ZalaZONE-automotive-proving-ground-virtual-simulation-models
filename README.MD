@@ -7,7 +7,7 @@
 | ZalaZONE_SmartCityZone_plan.xodr     | 0.1 | 01.16.2020. |
 | ZalaZONE_full.xodr     | 0.1 | 01.16.2020. |
 
-Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE test track in OpenDrive (.xodr) format. The full test track model was created manually in ROD (VIRES own road-network designer software) based on the original plans. There are minor deviations from the constructed test track.
+Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE test track (Z-city) in OpenDrive (.xodr) format. The full test track model was created manually in ROD (VIRES own road-network designer software) based on the original plans. There are minor deviations from the constructed test track.
 
 ### Acknowledgements
 The creation of the OpenDrive map file has been supported through laser scanning made by Baukoord-Europa Ltd. (baukoord.hu/en/).
@@ -96,5 +96,7 @@ URL: https://content.sciendo.com/view/journals/ttj/20/2/article-p153.xml
 
 Németh H., Háry A., Szalay Z., Tihanyi V., Tóth B. (2019) Proving Ground Test Scenarios in Mixed Virtual and Real Environment for Highly Automated Driving. In: Proff H. (eds) Mobilität in Zeiten der Veränderung. Springer Gabler, Wiesbaden. pp 199-210.
 URL: https://link.springer.com/chapter/10.1007/978-3-658-26107-8_15
+
+Szalay, Z., Hamar, Z. and Nyerges, Á. (2019) ‘Novel design concept for an automotive proving ground supporting multilevel CAV development’, Int. J. Vehicle Design, Vol. 80, No. 1, pp.1–22.
 
 ***
