@@ -12,6 +12,8 @@ Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE 
 ### Acknowledgements
 The creation of the OpenDrive map file has been supported through laser scanning made by Baukoord-Europa Ltd. (baukoord.hu/en/).
 
+The project has been supported by the European Union, co-financed by the European Social Fund. EFOP-3.6.2-16-2017-00002.
+
 ***
 
 ## IPG CarMaker
