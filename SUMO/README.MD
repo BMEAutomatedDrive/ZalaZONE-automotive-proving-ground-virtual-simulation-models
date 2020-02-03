@@ -43,7 +43,7 @@ Limitations
 - Not exact replica of the real track.
 - No GPS coordinates added.
 
-## Smart City Zone construction plan based - constructed (partial)
+## Smart City Zone construction plan based - Phase 1 (partial)
 
 Features
 - SUMO model of the constructed part of SmartCity zone.
