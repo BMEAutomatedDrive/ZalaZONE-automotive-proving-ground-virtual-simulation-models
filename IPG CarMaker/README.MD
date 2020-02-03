@@ -111,7 +111,7 @@ Limitations
 
 ***
 # References
-If you have found the models useful in your work, please, cite one of our papers in your publication, i.e.
+If you have found the models useful in your work, please, cite one of our papers in your publication, e.g.
 
 Tettamanti T., Szalai M., Vass S. and Tihanyi V. (2018) "Vehicle-In-the-Loop Test Environment for Autonomous Driving with Microscopic Traffic Simulation", In 2018 IEEE International Conference on Vehicular Electronics and Safety (ICVES). Madrid, Spain, Sept, 2018. , pp. 1-6. 
 URL: https://ieeexplore.ieee.org/document/8519486
