@@ -101,5 +101,6 @@ Szalay, Zs., Hamar, Z. and Nyerges, Á. (2019) "Novel design concept for an auto
 
 ***
 
+### General Acknowledgement
 The project has been supported by the European Union, co-financed by the European Social Fund. EFOP-3.6.2-16-2017-00002.
 
