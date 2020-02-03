@@ -12,8 +12,6 @@ Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE 
 ### Acknowledgements
 The creation of the OpenDrive map file has been supported through laser scanning made by Baukoord-Europa Ltd. (baukoord.hu/en/).
 
-The project has been supported by the European Union, co-financed by the European Social Fund. EFOP-3.6.2-16-2017-00002.
-
 ***
 
 ## IPG CarMaker
@@ -102,3 +100,6 @@ URL: https://link.springer.com/chapter/10.1007/978-3-658-26107-8_15
 Szalay, Zs., Hamar, Z. and Nyerges, Á. (2019) "Novel design concept for an automotive proving ground supporting multilevel CAV development", International Journal of Vehicle Design, Vol. 80, No. 1, pp.1–22.
 
 ***
+
+The project has been supported by the European Union, co-financed by the European Social Fund. EFOP-3.6.2-16-2017-00002.
+
