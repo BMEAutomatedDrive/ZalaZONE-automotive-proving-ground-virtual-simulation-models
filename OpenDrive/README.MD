@@ -13,7 +13,7 @@ ZalaZONE Smart City Zone laser scanned map in OpenDrive (.xodr) format is limite
 ZalaZONE Smart City Zone map in OpenDrive (.xodr) format shows the whole Smart City Zone but created from the construction plan manually. It might be different from the real one and not so punctual as the laser scanned version.
 
 ### Acknowledgements
-The creation of the OpenDrive map file has been supported through laser scanning made by Baukoord-Europa Ltd. (baukoord.hu/en/).
+Baseline OpenDRIVE source files, as well as airborne scanning based LIDAR pointclouds and textured terrain meshes were provided by Baukoord-Europa kft. (baukoord.hu/en/).
 
 ***
 
