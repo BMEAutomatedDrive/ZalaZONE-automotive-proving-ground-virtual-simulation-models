@@ -16,7 +16,7 @@ Limitations
 - Roads and textures are not editable (only the traffic signs).
 
 ### Acknowledgements
-The creation of the .fbx file has been supported through laser scanning made by Baukoord-Europa Ltd. (baukoord.hu/en/).
+Baseline OpenDRIVE source files, as well as airborne scanning based LIDAR pointclouds and textured terrain meshes were provided by Baukoord-Europa kft. (baukoord.hu/en/).
 
 ***
 
