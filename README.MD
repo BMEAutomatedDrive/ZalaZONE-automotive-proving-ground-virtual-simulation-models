@@ -10,7 +10,7 @@
 Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE test track (Z-city) in OpenDrive (.xodr) format. The full test track model was created manually in ROD (VIRES own road-network designer software) based on the original plans. There are minor deviations from the constructed test track.
 
 ### Acknowledgements
-The creation of the OpenDrive map file has been supported through laser scanning made by Baukoord-Europa Ltd. (baukoord.hu/en/).
+Baseline OpenDRIVE source files, as well as airborne scanning based LIDAR pointclouds and textured terrain meshes were provided by Baukoord-Europa kft. (baukoord.hu/en/).
 
 ***
 
@@ -63,7 +63,7 @@ The full test track model was created manually in ROD (VIRES own road-network de
 Based on laser scanning and orthophotos.
 
 ### Acknowledgements
-The creation of the .fbx file has been supported through laser scanning made by Baukoord-Europa Ltd. (baukoord.hu/en/).
+Baseline OpenDRIVE source files, as well as airborne scanning based LIDAR pointclouds and textured terrain meshes were provided by Baukoord-Europa kft. (baukoord.hu/en/).
 
 ***
 
@@ -82,7 +82,7 @@ The creation of the .fbx file has been supported through laser scanning made by 
 Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE test track in SUMO network file (.net.xml) format. There are minor deviations from the constructed test track. The laser scanned SUMO project file is limited as it only contains the already constructed part of the Smart City Zone (cca. 30%).
 
 ### Acknowledgements
-The creation of the SUMO network file has been supported through laser scanning made by Baukoord-Europa Ltd. (baukoord.hu/en/).
+Baseline OpenDRIVE source files, as well as airborne scanning based LIDAR pointclouds and textured terrain meshes were provided by Baukoord-Europa kft. (baukoord.hu/en/).
 
 ***
 # References
