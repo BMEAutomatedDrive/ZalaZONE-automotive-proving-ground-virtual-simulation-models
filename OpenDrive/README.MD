@@ -20,7 +20,7 @@ Updates:
 - 0,1 m lanes have been removed from the Handling Course.
 
 Known issues:
-- The full model cannot be imported to dSpace ModelDesk due to some errors. 
+- The full model cannot be imported to dSpace ModelDesk 2017B due to negative altitude.  
 - The Dynamical Platform has some intersecting elements. 
 
 ### Acknowledgements
