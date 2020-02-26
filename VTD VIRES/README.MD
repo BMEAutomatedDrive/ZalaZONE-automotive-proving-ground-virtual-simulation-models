@@ -2,9 +2,8 @@
 
 | Files  | Version  | Date |
 | :------------ |:---------------|:-----|
-| ZalaZONE_full.opt.osgb     | 0.1 | 01.16.2020. |
-| ZalaZONE_full.opt.tdo    | 0.1 | 01.16.2020. |
-| ZalaZONE_full.xodr     | 0.1 | 01.16.2020. |
+| ZalaZONE_full.opt.tdo    | 0.2 | 02.26.2020. |
+| ZalaZONE_full.xodr     | 0.2 | 02.26.2020. |
 
 Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE test track in OpenDrive (.xodr) format. The full test track model was created manually in ROD (VIRES own road-network designer software) based on the original plans. There are minor deviations from the constructed test track. The provided file is in .tdo which is the working file of the ROD. For the scenario editor .xodr and .osgb are also provided.
 
@@ -38,7 +37,10 @@ Features
 
 Limitations
 - No safety zone (run-off area) and guardrail.
+- There are intersecting elements.
 
+v0.2 changes
+- Junction at the entrance of the Dynamic Platform has been fixed.
 
 ### 3. Braking Platform
 
@@ -64,6 +66,9 @@ Limitations
 - No guardrails.
 - Missing road-markings.
 
+v0.2 changes
+- 0,1 m lanes have been removed.
+
 
 ### 4.2. Low-Speed Handling Course
 
@@ -78,6 +83,9 @@ Limitations
 - The small roundabout is missing.
 - Car park line markings are missing.
 - Bike lanes with driving lanes sometimes work incorrectly.
+
+v0.2 changes
+- Road "BME scenarios" has been deleted
 
 ### 6. Motorway 
 
