@@ -4,13 +4,23 @@
 | :------------ |:---------------|:-----|
 | ZalaZONE_SmartCityZone_laser.xodr     | 0.1 | 01.16.2020. |
 | ZalaZONE_SmartCityZone_plan.xodr     | 0.1 | 01.16.2020. |
-| ZalaZONE_full.xodr     | 0.1 | 01.16.2020. |
+| ZalaZONE_full.xodr     | 0.2 | 02.26.2020. |
 
 Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE test track in OpenDrive (.xodr) format. The full test track model was created manually in ROD (VIRES own road-network designer software) based on the original plans. There are minor deviations from the constructed test track.
 
 ZalaZONE Smart City Zone laser scanned map in OpenDrive (.xodr) format is limited: it only contains the already constructed part of the Smart City Zone (cca. 30%).
 
 ZalaZONE Smart City Zone map in OpenDrive (.xodr) format shows the whole Smart City Zone but created from the construction plan manually. It might be different from the real one and not so punctual as the laser scanned version.
+
+### v0.2 Notes
+Updates:
+- Road 2028 has been deleted as it was a duplicate.
+- Road "BME scenarios" in the Smart City Zone has been deleted
+- Junction at the Dynamic Platform has been fixed.
+- 0,1 m lanes have been removed from the Handling Course.
+Known issues:
+- The full model cannot be imported to dSpace ModelDesk due to some errors. 
+- The Dynamical Platform has some intersecting elements. 
 
 ### Acknowledgements
 Baseline OpenDRIVE source files, as well as airborne scanning based LIDAR pointclouds and textured terrain meshes were provided by Baukoord-Europa kft. (baukoord.hu/en/).
