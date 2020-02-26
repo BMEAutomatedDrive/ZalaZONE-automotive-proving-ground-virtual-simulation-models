@@ -18,6 +18,7 @@ Updates:
 - Road "BME scenarios" in the Smart City Zone has been deleted
 - Junction at the Dynamic Platform has been fixed.
 - 0,1 m lanes have been removed from the Handling Course.
+
 Known issues:
 - The full model cannot be imported to dSpace ModelDesk due to some errors. 
 - The Dynamical Platform has some intersecting elements. 
