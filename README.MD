@@ -5,7 +5,7 @@
 | :------------ |:---------------|:-----|
 | ZalaZONE_SmartCityZone_laser.xodr     | 0.1 | 01.16.2020. |
 | ZalaZONE_SmartCityZone_plan.xodr     | 0.1 | 01.16.2020. |
-| ZalaZONE_full.xodr     | 0.1 | 01.16.2020. |
+| ZalaZONE_full.xodr     | 0.2 | 02.26.2020. |
 
 Laser scanned and blueprint-based models of the Smart City Zone of the ZalaZONE test track (Z-city) in OpenDrive (.xodr) format. The full test track model was created manually in ROD (VIRES own road-network designer software) based on the original plans. There are minor deviations from the constructed test track.
 
@@ -45,9 +45,8 @@ All of the modules based on the original plans and are created manually in Presc
 
 | Files  | Version  | Date |
 | :------------ |:---------------|:-----|
-| ZalaZONE_full.opt.osgb     | 0.1 | 01.16.2020. |
-| ZalaZONE_full.tdo     | 0.1 | 01.16.2020. |
-| ZalaZONE_full.xodr     | 0.1 | 01.16.2020. |
+| ZalaZONE_full.tdo     | 0.2 | 02.26.2020. |
+| ZalaZONE_full.xodr     | 0.2 | 02.26.2020. |
 
 The full test track model was created manually in ROD (VIRES own road-network designer software) based on the original plans.The provided file is in .tdo which is the working file of the ROD. For the scenario editor .xodr and .osgb are also provided. There are minor deviations from the constructed test track. 
 
