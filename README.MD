@@ -66,6 +66,20 @@ Baseline OpenDRIVE source files, as well as airborne scanning based LIDAR pointc
 
 ***
 
+## Unreal Engine
+
+| Files  | Version  | Date |
+| :------------ |:---------------|:-----|
+| ZalaZONE_full_v01.fbx (compressed, split)     | 0.1 | 04.21.2020. |
+
+
+Based on laser scanning and orthophotos.
+
+### Acknowledgements
+Baseline OpenDRIVE source files, as well as airborne scanning based LIDAR pointclouds and textured terrain meshes were provided by Baukoord-Europa kft. (baukoord.hu/en/).
+
+***
+
 ## SUMO
 
 | Files  | Version  | Date |
