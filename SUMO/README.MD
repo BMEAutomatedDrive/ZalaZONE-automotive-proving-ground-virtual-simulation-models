@@ -65,6 +65,9 @@ Limitations
 # References
 If you have found the models useful in your work, please, cite one of our papers in your publication, e.g.
 
+M. Szalai, B. Varga, T. Tettamanti and V. Tihanyi, "Mixed reality test environment for autonomous cars using Unity 3D and SUMO," 2020 IEEE 18th World Symposium on Applied Machine Intelligence and Informatics (SAMI), Herlany, Slovakia, 2020, pp. 73-78
+URL: https://ieeexplore.ieee.org/document/9108745/
+
 Tettamanti T., Szalai M., Vass S. and Tihanyi V. (2018) "Vehicle-In-the-Loop Test Environment for Autonomous Driving with Microscopic Traffic Simulation", In 2018 IEEE International Conference on Vehicular Electronics and Safety (ICVES). Madrid, Spain, Sept, 2018. , pp. 1-6. 
 URL: https://ieeexplore.ieee.org/document/8519486
 
