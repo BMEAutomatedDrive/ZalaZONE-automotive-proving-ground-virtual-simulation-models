@@ -1,4 +1,8 @@
-﻿# Contents
+# New version of the datasets are available at https://www.automateddrive.bme.hu/downloads 
+
+Please submit your application form on the site, and the team of the BME AutomatedDrive will give you acces for the required files within a week. 
+
+# Contents
 ## OpenDrive
 
 | Files  | Version  | Date |
